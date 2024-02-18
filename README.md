@@ -42,6 +42,6 @@ The following papers were used as technical support and inspiration:
 - https://phog.github.io/snerg/
 - https://dreamfusion3d.github.io/ 
 
+## License
 
-
-
+MIT
