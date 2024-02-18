@@ -2,6 +2,8 @@
 
 **Aira is an iOS app that generates AR tutorials using 3D stable diffusion in real time.**
 
+**Devpost: https://devpost.com/software/aira-9sqo1j**
+
 ## Inspiration
 Not all products are designed in a user-friendly and intuitive way. We often come across devices that are annoying and unclear to use. This is especially true for people with less exposure to tech, such as seniors. Whether it’s setting up a new tech gadget or controlling the AC in a new rental car, reading long user manuals or finding a random YouTube tutorial is currently the best course of action. But what if an AI could generate the tutorial specifically for you directly on your phone and visually explain the product using interactive AR?
 
@@ -38,4 +40,4 @@ The following papers were used as technical support and inspiration:
 
 
 
-Devpost: https://devpost.com/software/aira-9sqo1j
+
