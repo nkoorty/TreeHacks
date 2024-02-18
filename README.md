@@ -11,7 +11,7 @@ Not all products are designed in a user-friendly and intuitive way. We often com
 <img src="https://github.com/nkoorty/TreeHacks/assets/22000925/9ed1517c-bcb5-4851-b9b8-5bdf9692c9bc" alt="thumbnail" style="float: left; margin-right: 10px;"/>
 <img src="https://github.com/nkoorty/TreeHacks/assets/22000925/b6e28448-38e8-4a19-a505-12ea95ab0e92" alt="Demo" style="float: left; margin-right: 10px;"/>
 <img src="https://github.com/nkoorty/TreeHacks/assets/22000925/1bef3f15-d61d-41bc-84ce-0f9470635c5e" alt="Turtle" style="float: left; margin-right: 10px;" />
-<img src="https://github.com/nkoorty/TreeHacks/assets/22000925/0c4e885b-a120-4191-a8d4-b3b4d643ceb2" style="width: 50%; height: 50%;" alt="camera tutorial">
+<img src="https://github.com/nkoorty/TreeHacks/assets/22000925/0c4e885b-a120-4191-a8d4-b3b4d643ceb2" style="width: 75%; height: 50%;" alt="camera tutorial">
 
 
 
