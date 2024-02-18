@@ -167,12 +167,6 @@ struct ARExperienceView: View {
                     print("Failed to decode response: \(error)")
                 }
             }
-            
-            Timer.scheduledTimer(withTimeInterval: 15.0, repeats: false) { _ in
-                DispatchQueue.main.async {
-                    self.fillIcon = true
-                }
-            }
         }.resume()
     }
 }
